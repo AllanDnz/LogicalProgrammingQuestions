@@ -1,4 +1,4 @@
-# LeetCode Challenges
+# LeetCode and Beecrowd Challenges
 
 This repository aims to share my progress in programming logic and a routine of questions solved on the LeetCode platform.
 
